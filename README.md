@@ -22,7 +22,7 @@ Install it from the Extensions tab if you don't have it.
 - Double-click index.html
 It will open directly in your browser (Chrome, Edge, etc.).
 
-# 📷 Screenshots 
-![Home](Index.png)
-![About Us](<About Us.png>)
-![Contact Us](<Contact Us.png>)
+# 📷 Screenshots
+ ![Home](images/Index.png)
+![About Us](<images/About Us.png>)
+![Contact Us](<images/Contact Us.png>)
